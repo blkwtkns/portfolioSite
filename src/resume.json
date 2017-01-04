@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Blake Watkins",
+    "label": "Programmer",
+    "picture": "./profilePic.jpg",
+    "email": "blakemwatkins@gmail.com",
+    "phone": "(818) 653-8921",
+    "website": "http://blakemwatkins.com",
+    "summary": "Currently I'm focusing on building and sharpening my skills in web development. I enjoy programming for both front and back end environments, which includes keeping current on frameworks, new ES standards and releases, and having fun with Node and it's rich environment. I have a deep love for linguistic inquiry, which has bridged me into the realm of computation and programming, and also has me very interested in functional programming concepts.",
+    "location": {
+      "address": "12726 Matteson Ave #7",
+      "postalCode": "CA 90066",
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "tresfaim",
+        "url": "https://twitter.com/TresFaim"
+      },
+      {
+        "network": "linkedin",
+        "username": "blkwtkns",
+        "url": "https://www.linkedin.com/in/blkwtkns"
+      },
+      {
+        "network": "Github",
+        "username": "blkwtkns",
+        "url": "https://github.com/blkwtkns"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Freelancer",
+      "website": "",
+      "startDate": "2016-09-21",
+      "endDate": "Current",
+      "summary": "Working on various development projects for non-profits and private parties.",
+      "highlights": []
+    },
+    {
+      "company": "Encompass Community Services",
+      "position": "Counselor",
+      "website": "",
+      "startDate": "2014-01-01",
+      "endDate": "2016-05-17",
+      "summary": [
+        "Provided counseling and therapeutic services for persons with acute mental health diagnoses, within a transitional facility",
+        "Managed project that fully transitioned organization of 200+ employees to an EMR cloud-based service"
+      ],
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "SPY",
+      "position": "Volunteer",
+      "website": "http://www.safeplaceforyouth.org",
+      "startDate": "2016-12-01",
+      "endDate": "Current",
+      "summary": "Providing assistance to organization's drop-in services.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California Santa Cruz",
+      "area": "Linguistics, Classical Studies",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-21",
+      "endDate": "2012-06-21",
+      "gpa": "3.92",
+      "distinctions": "Highest Honors in Linguistics, Highest Honors in Classical Studies, Summa cum Laude"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Junior-Mid",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "JQuery",
+        "MongoDB",
+        "Mocha",
+        "Chai",
+        "webRTC",
+        "Websockets",
+        "React",
+        "SASS",
+        "Gulp",
+        "Babel",
+        "Bootstrap",
+        "Node",
+        "Git",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Latin",
+      "fluency": "Reading proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoors",
+      "keywords": [
+        "Surfing",
+        "Hiking",
+        "Snowboarding"
+      ]
+    }
+  ],
+  "references": []
+}
