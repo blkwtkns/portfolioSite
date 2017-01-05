@@ -6,3 +6,6 @@
 * add proper testing (not functional at the moment)
 * decide on production static site host (maybe surge?)
 * add logic for other extraneous parts of json doc
+* switch to material design styling
+* change color
+* add navbar feature
