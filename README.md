@@ -9,3 +9,4 @@
 * switch to material design styling
 * change color
 * add navbar feature
+* change favicon
