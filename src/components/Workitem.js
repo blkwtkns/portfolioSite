@@ -14,7 +14,7 @@ const WorkItem = props => {
         return <span className='startdate'>{startdate} - {enddate}</span>
     }
 
-    const getHighlights = props.workItemData.highlights.map(function(item, index) {
+    const getHighlights = props.workItemData.highlights.map((item, index) => {
         return (<li key={index}>{item}</li>)
     });
 
