@@ -73,7 +73,7 @@ a {
   color: #23527c;
 }
 
-.about, .work, .education, .skills {
+.about, .work, .education, .skills, .projects, .volunteer, .languages, .interests {
   margin-bottom: 30px;
 }
 .skills-list li {
