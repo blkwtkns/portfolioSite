@@ -10,6 +10,7 @@ const Education = props => {
             <h3>{item.studyType} {item.area}</h3>
   				  <h4>{item.institution}</h4>
   				  <p>Studied: {startdate} - {enddate}</p>
+  				  <p>Distinctions: {item.distinctions}</p>
   				</div>
         )
   	});

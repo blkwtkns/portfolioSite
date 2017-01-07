@@ -2,7 +2,7 @@ import React from 'react';
 
 const Interests = props => {
     const getInterests = props.interestsData[0].keywords.map((item, index) => {
-      return (<li key={index}><span className="label label-success">{item}</span></li>)
+      return (<li key={index}><span className="label label-default">{item}</span></li>)
     });
 
   	return (

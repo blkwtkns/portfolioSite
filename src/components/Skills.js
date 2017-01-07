@@ -2,7 +2,7 @@ import React from 'react';
 
 const Skills = props => {
     const getSkills = props.skillsData[0].keywords.map((item, index) => {
-      return (<li key={index}><span className="label label-success">{item}</span></li>)
+      return (<li key={index}><span className="label label-default">{item}</span></li>)
     });
 
   	return (

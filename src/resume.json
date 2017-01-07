@@ -120,7 +120,7 @@
       "startDate": "2009-09-21",
       "endDate": "2012-06-21",
       "gpa": "3.92",
-      "distinctions": "Highest Honors in Linguistics, Highest Honors in Classical Studies, Summa cum Laude"
+      "distinctions": "Honors in Linguistics, Highest Honors in Classical Studies, Summa cum Laude"
     }
   ],
   "skills": [
@@ -166,9 +166,9 @@
   "interests": [
     {
       "keywords": [
-        "Surfing",
-        "Hiking",
-        "Snowboarding",
+        "surfing",
+        "hiking",
+        "snowboarding",
         "vim",
         "functional programming",
         "linguistics",
