@@ -8,7 +8,7 @@
     "website": "http://blakemwatkins.com",
     "summary": "Currently I'm focusing on building and sharpening my skills in web development. I enjoy programming for both front and back end environments, which includes keeping current on frameworks, new ES standards and releases, and having fun with Node and it's rich environment. I have a deep love for linguistic inquiry, which has bridged me into the realm of computation and programming, and also has me very interested in functional programming concepts.",
     "location": {
-      "address": "12726 Matteson Ave #7",
+      "address": "",
       "postalCode": "CA 90066",
       "city": "Los Angeles",
       "countryCode": "US",
@@ -38,8 +38,10 @@
       "position": "Freelancer",
       "website": "",
       "startDate": "2016-09-21",
-      "endDate": "Current",
-      "summary": "Working on various development projects for non-profits and private parties.",
+      "endDate": "2017-01",
+      "summary": [
+        "Working on various development projects for non-profits and private parties."
+      ],
       "highlights": []
     },
     {
@@ -49,7 +51,8 @@
       "startDate": "2014-01-01",
       "endDate": "2016-05-17",
       "summary": [
-        "Provided counseling and therapeutic services for persons with acute mental health diagnoses, within a transitional facility",
+        "Provided counseling and therapeutic services for persons with acute mental health diagnoses", 
+        "Trained in Motivational Interviewing and Mindfulness practices",
         "Managed project that fully transitioned organization of 200+ employees to an EMR cloud-based service"
       ],
       "highlights": []
@@ -97,12 +100,15 @@
   ],
   "volunteer": [
     {
-      "organization": "SPY",
+      "organization": "Safe Place for Youth",
       "position": "Volunteer",
       "website": "http://www.safeplaceforyouth.org",
       "startDate": "2016-12-01",
-      "endDate": "Current",
-      "summary": "Providing assistance to organization's drop-in services.",
+      "endDate": "2017-01",
+      "summary": [
+        "Provide general assistance to organization's drop-in services.",
+        "Offer tutoring and educational services"
+      ],
       "highlights": []
     }
   ],
@@ -110,7 +116,7 @@
     {
       "institution": "University of California Santa Cruz",
       "area": "Linguistics, Classical Studies",
-      "studyType": "Bachelor",
+      "studyType": "BA",
       "startDate": "2009-09-21",
       "endDate": "2012-06-21",
       "gpa": "3.92",
@@ -159,11 +165,16 @@
   ],
   "interests": [
     {
-      "name": "Outdoors",
       "keywords": [
         "Surfing",
         "Hiking",
-        "Snowboarding"
+        "Snowboarding",
+        "vim",
+        "functional programming",
+        "linguistics",
+        "comparative literature",
+        "mythology",
+        "psychology"
       ]
     }
   ],

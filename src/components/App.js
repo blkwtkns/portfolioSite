@@ -4,13 +4,21 @@ import About from './About';
 import Work from './Work';
 import Skills from './Skills';
 import Education from './Education';
+import Projects from './Projects';
+import Volunteer from './Volunteer';
+import Languages from './Languages';
+import Interests from './Interests';
 
 const App = props => {
   const profileData = props.jsonObj.basics;
   const aboutData = profileData.summary;
   const workData = props.jsonObj.work;
+  const projectData = props.jsonObj.projects;
+  const volunteerData = props.jsonObj.volunteer;
   const skillsData = props.jsonObj.skills;
+  const languagesData = props.jsonObj.languages;
   const educationData = props.jsonObj.education;
+  const interestsData = props.jsonObj.interests;
 
   return (
           <div className="container">
@@ -24,8 +32,12 @@ const App = props => {
                 <div className="inner">
                   <About aboutData={aboutData} />
                   <Work workData={workData} />
+                  <Projects projectData={projectData} />
+                  <Volunteer volunteerData={volunteerData} />
                   <Skills skillsData={skillsData} />
+                  <Languages languagesData={languagesData} />
                   <Education educationData={educationData} />
+                  <Interests interestsData={interestsData} />
                 </div>
               </main>
             </div>

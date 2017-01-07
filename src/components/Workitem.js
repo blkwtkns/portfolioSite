@@ -14,7 +14,11 @@ const WorkItem = props => {
         return <span className='startdate'>{startdate} - {enddate}</span>
     }
 
-    const getHighlights = props.workItemData.highlights.map((item, index) => {
+    // const getHighlights = props.workItemData.highlights.map((item, index) => {
+    //     return (<li key={index}>{item}</li>)
+    // });
+
+    const getSummaries = props.workItemData.summary.map((item, index) => {
         return (<li key={index}>{item}</li>)
     });
 
@@ -22,8 +26,7 @@ const WorkItem = props => {
         <div className="workItem">
           <h3>{props.workItemData.position}, <span>{props.workItemData.company}</span></h3>
           <p className="workDates">{getWorkDates()}</p>
-          <p>{props.workItemData.summary}</p>
-          <ul>{getHighlights}</ul>
+          <ul>{getSummaries}</ul>
         </div>
     )
 };
