@@ -20,7 +20,7 @@ const ProjectItem = props => {
 
     return (
         <div className="projectItem">
-          <h3>{props.projectItemData.position}, <span>{props.projectItemData.name}</span></h3>
+          <h3>{props.projectItemData.position}, <a href={props.projectItemData.website}><span>{props.projectItemData.name}</span></a></h3>
           <p className="projectDates">{getProjectDates()}</p>
           <ul>{projectSummaries}</ul>
         </div>
