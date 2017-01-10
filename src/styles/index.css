@@ -15,6 +15,12 @@ aside, main {
     padding-left: 0!important;
   }
 }
+@media only screen and (max-width: 768px) {
+  body
+  {
+    text-align: center;
+  }
+}
 aside .inner, main .inner {
   background: #fff;
   padding: 20px;
