@@ -5,7 +5,11 @@
 /* } */
 
 body {
+  background: #ffffff; /* #f0f0f0; */
+}
+section {
   background: #f0f0f0;
+  padding: 3%;
 }
 aside, main {
   padding: 10px!important;

@@ -5,7 +5,7 @@ const Profile = props => {
     return  <div>
                   <div className="profileImg"><img role="presentation" className="img-circle center-block" src={profileObj.picture} width="200" /></div>
                   <h1 className="text-center">{profileObj.name}</h1>
-                  <h2 className="text-center">{profileObj.label}</h2>
+                  <h3 className="text-center">{profileObj.label}</h3>
                   <div className="divider"></div>
                   <ul className="list-unstyled contact-links text-center">
                     <li><i className="fa fa-lg fa-location-arrow"></i>{profileObj.location.city}, {profileObj.location.region}, {profileObj.location.countryCode}</li>
