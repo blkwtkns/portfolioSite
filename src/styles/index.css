@@ -38,8 +38,8 @@ main {
     text-align: center!important;
   }
   ul {
-  list-style-position: inside;
-}
+    list-style-position: inside;
+  }
 }
 
 aside .inner,
@@ -47,8 +47,6 @@ main .inner {
   background: #fff;
   padding: 20px;
 }
-
-
 
 h1 {
   font-size: 24px;
