@@ -6,7 +6,7 @@ const Skills = props => {
     });
 
   	return (
-  	  <section className="skills">
+  	  <section className="skills card">
         <h2 className="text-uppercase"><i className="fa fa-lg fa-code"></i> Skills</h2>
         <ul className="skills-list list-inline">{getSkills}</ul>
       </section>

@@ -16,7 +16,7 @@ const Education = props => {
   	});
 
   	return (
-  	  <section className="education">
+  	  <section className="education card">
         <h2 className="text-uppercase"><i className="fa fa-lg fa-mortar-board"></i> Education</h2>
         {getEducation}
       </section>

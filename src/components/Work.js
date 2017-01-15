@@ -8,7 +8,7 @@ const Work = props => {
     })
 
     return (
-      <section className="work">
+      <section className="work card">
         <h2 className="text-uppercase"><i className="fa fa-lg fa-building"></i> Work</h2>
         {getWorkExperience}
       </section>

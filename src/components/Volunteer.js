@@ -8,7 +8,7 @@ const Volunteer = props => {
     })
 
     return (
-      <section className="volunteer">
+      <section className="volunteer card">
         <h2 className="text-uppercase"><i className="fa fa-lg fa-universal-access"></i> Volunteer</h2>
         {volunteerExperience}
       </section>

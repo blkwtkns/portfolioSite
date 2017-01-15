@@ -13,13 +13,18 @@
 /* } */
 
 body {
-  background: #ffffff;
+  background: #f9fafc; 
   /* #f0f0f0; */
+ /* #ffffff; */
 }
 
 section {
-  background: #f0f0f0;
+  background: #ffffff;
   padding: 3%;
+}
+
+.card {
+  box-shadow: 0 0 8px #d8dbe3;
 }
 
 aside,

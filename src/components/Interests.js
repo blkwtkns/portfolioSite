@@ -6,7 +6,7 @@ const Interests = props => {
     });
 
   	return (
-  	  <section className="interests">
+  	  <section className="interests card">
         <h2 className="text-uppercase"><i className="fa fa-lg fa-heart"></i> Interests</h2>
         <ul className="interests-list list-inline">{getInterests}</ul>
       </section>

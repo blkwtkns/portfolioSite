@@ -6,7 +6,7 @@ const Languages = props => {
     });
 
   	return (
-  	  <section className="languages">
+  	  <section className="languages card">
         <h2 className="text-uppercase"><i className="fa fa-lg fa-language"></i> Languages</h2>
         <ul>{getLanguages}</ul>
       </section>

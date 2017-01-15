@@ -24,12 +24,11 @@ const App = props => {
           <div className="container">
             <div className="row">
               <aside className="col-md-4">
-                <div className="inner">
+                <div className="inner card">
                   <Profile profileData={profileData} />
                 </div>
               </aside>
               <main className="col-md-8">
-                <div className="inner">
                   <About aboutData={aboutData} />
                   <Work workData={workData} />
                   <Projects projectData={projectData} />
@@ -38,7 +37,6 @@ const App = props => {
                   <Languages languagesData={languagesData} />
                   <Education educationData={educationData} />
                   <Interests interestsData={interestsData} />
-                </div>
               </main>
             </div>
           </div>

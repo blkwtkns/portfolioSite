@@ -8,7 +8,7 @@ const Project = props => {
     })
 
     return (
-      <section className="projects">
+      <section className="projects card">
         <h2 className="text-uppercase"><i className="fa fa-lg fa-flask"></i> Projects</h2>
         {projectExperience}
       </section>
