@@ -34,6 +34,19 @@
   },
   "work": [
     {
+      "company": "RaicesPeruanas",
+      "position": "Freelance",
+      "website": "RaicesPeruanas.com (Dev phase, not staged domain name yet)",
+      "startDate": "2016-12-30",
+      "endDate": "2017-02",
+      "summary": [
+        "Site overall from previous outdated website, with gross aims of building on UX, PoC, and SEO",
+        "Website architecture based in React ecosystem, with isomorphic design for SEO purposes",
+        "AWS services(Lambda, DynamoDb, EC2) being implemented to take advantage of cost savings usage model"
+      ],
+      "highlights": []
+    },
+    {
       "company": "Freelance",
       "position": "Freelancer",
       "website": "",
@@ -142,8 +155,10 @@
         "webRTC",
         "Websockets",
         "React",
+        "Redux",
         "SASS",
         "Gulp",
+        "Webpack",
         "Babel",
         "Bootstrap",
         "Node",
