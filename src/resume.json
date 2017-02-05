@@ -40,9 +40,9 @@
       "startDate": "2016-12-30",
       "endDate": "2017-02",
       "summary": [
-        "Site overall from previous outdated website, with gross aims of building on UX, PoC, and SEO",
-        "Website architecture based in React ecosystem, with isomorphic design for SEO purposes",
-        "AWS services(Lambda, DynamoDb, EC2) being implemented to take advantage of cost savings usage model"
+        "Revamp of older website, with gross aims of modernizing UX, and building on PoC and SEO capabilities",
+        "Built within React ecosystem, utilizing variety of current react libraries to design an isomorphic application",
+        "AWS services(Lambda, DynamoDB, EC2) being implemented to take advantage of practical usage models"
       ],
       "highlights": []
     },
