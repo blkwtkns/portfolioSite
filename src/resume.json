@@ -37,10 +37,23 @@
   },
   "work": [
     {
+      "company": "Biodoc",
+      "position": "Software Developer",
+      "website": "Beta",
+      "startDate": "2017-3",
+      "endDate": "2017-02",
+      "summary": [
+        "Expanded front end logic within large existing communication application, utilizing Backbone/Marionette",
+        "Developed ancillary application with heavy form dependence, and setup front end and back end validation",
+        "Contributed to architectural design implementations, and helped move application closer to using a unified state model"
+      ],
+      "highlights": []
+    },
+    {
       "company": "Safe Place for Youth",
       "position": "Web Developer",
       "website": "Non-public facing portal for employees",
-      "startDate": "2017-2-20",
+      "startDate": "2017-2",
       "endDate": "2017-02",
       "summary": [
         "Integrating sensitive front end data to back end API with PostgresQL database hooks",
@@ -53,7 +66,7 @@
       "company": "RaicesPeruanas",
       "position": "Web Developer",
       "website": "RaicesPeruanas.com (Dev phase, not staged to domain name yet)",
-      "startDate": "2016-12-30",
+      "startDate": "2016-12",
       "endDate": "2017-02",
       "summary": [
         "Redesign of older website, with aims of modernizing UX, and building on PoC and SEO capabilities",
@@ -66,7 +79,7 @@
       "company": "Freelance",
       "position": "Freelancer",
       "website": "",
-      "startDate": "2016-09-21",
+      "startDate": "2016-09",
       "endDate": "2017-01",
       "summary": [
         "Working on various development projects for non-profits and private parties."
@@ -77,8 +90,8 @@
       "company": "Encompass Community Services",
       "position": "Counselor",
       "website": "",
-      "startDate": "2014-01-01",
-      "endDate": "2016-05-17",
+      "startDate": "2014-01",
+      "endDate": "2016-05",
       "summary": [
         "Provided counseling and therapeutic services for persons with acute mental health diagnoses", 
         "Trained in Motivational Interviewing and Mindfulness practices",
@@ -89,11 +102,23 @@
   ],
   "projects": [
     {
+    "name": "vim-sesh",
+    "position": "Software Developer",
+    "website": "https://github.com/blkwtkns/vim-sesh",
+    "startDate": "2017-03",
+    "endDate": "2017-5",
+    "summary":[
+    "Developed vim plugin for vim session management, with on emphasis on project/story management",
+"Designed plugin to track current git status and branch of project, and create and access sessions based on these criteria", 
+"Setup optionality for users to partially implement core features of the plugin"
+    ]
+    },
+    {
     "name": "mirageJS",
-    "position": "Full Stack Engineer",
+    "position": "Full Stack Developer",
     "website": "https://github.com/blkwtkns/miragejs",
-    "startDate": "2016-08-01",
-    "endDate": "2016-11-01",
+    "startDate": "2016-08",
+    "endDate": "2016-11",
     "summary":[
     "Developed methods to layer and manipulate video streams and canvasses by utilizing canvas, webRTC, and TrackingJS APIs",
 "Deployed javascript library API via NPM, that accepts custom animation functions, exposes data channel and stream events, and optionally offers an audio/video capable component", 
@@ -104,10 +129,10 @@
     },
     {
     "name": "Sip",
-    "position": "Back End Engineer",
+    "position": "Back End Developer",
     "website": "https://github.com/blkwtkns/sip",
-    "startDate": "2016-07-25",
-    "endDate": "2016-11-01",
+    "startDate": "2016-07",
+    "endDate": "2016-11",
     "summary":[
 "Constructed node streams to issue portions of readfile data dependent on specific client-side requests",
 "Developed front and backend APIs to enable server side middleware operations",
@@ -116,10 +141,10 @@
     },
     {
     "name": "Spik-izi",
-    "position": "Full Stack Engineer",
+    "position": "Full Stack Developer",
     "website": "https://github.com/blkwtkns/spik-izi",
-    "startDate": "2016-07-20",
-    "endDate": "2016-11-01",
+    "startDate": "2016-07",
+    "endDate": "2016-11",
     "summary":[
 "Created API logic controller within React framework to serve as user friendly linguistic aide for educational purposes",
 "Setup RESTful API to serve custom etymological data upon AJAX requests",  
@@ -132,7 +157,7 @@
       "organization": "Safe Place for Youth",
       "position": "Volunteer",
       "website": "http://www.safeplaceforyouth.org",
-      "startDate": "2016-12-01",
+      "startDate": "2016-12",
       "endDate": "2017-01",
       "summary": [
         "Provide general assistance to organization's drop-in services.",
@@ -146,8 +171,8 @@
       "institution": "University of California Santa Cruz",
       "area": "Linguistics, Classical Studies",
       "studyType": "BA",
-      "startDate": "2009-09-21",
-      "endDate": "2012-06-21",
+      "startDate": "2009-09",
+      "endDate": "2012-06",
       "gpa": "3.92",
       "distinctions": "Honors in Linguistics, Highest Honors in Classical Studies, Summa cum Laude"
     }
@@ -172,6 +197,8 @@
         "Websockets",
         "React",
         "Redux",
+        "Backbone",
+        "Marionette",
         "SASS",
         "Gulp",
         "Webpack",
